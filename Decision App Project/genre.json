@@ -1,0 +1,63 @@
+[
+    {
+        "genre":"RnB",
+        "img":"R&B.jpeg"
+       
+    },
+    {
+       "genre":"EDM",
+       "img":""
+    },
+    {
+       "genre":"Pop",
+        "img":""
+    },
+    {
+        "genre":"Country",
+         "img":""
+    },
+    {
+       "genre":"Heavy Metal",  
+        "img":""
+    },
+    {
+        "genre":"Reggaeton",
+         "img":""
+    },
+    {
+        "genre":"Classical",
+         "img":""
+    },
+    {
+        "genre":"Jazz",
+         "img":""
+    },
+    {
+       "genre":"Indie",
+        "img":""
+    },
+    {
+        "genre":"Pluggnb",
+         "img":""
+    },
+    {
+        "genre":"Punk Rock",
+         "img":""
+    },
+    {
+        "genre":"Rap",
+         "img":""
+    }
+
+
+
+
+
+
+
+
+
+
+]
+
+
