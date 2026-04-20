@@ -6,7 +6,7 @@ let x = Math.floor((Math.random() * 12) + 1);
 
 let genres;
 
-
+let picture = document.querySelector(".picture");
 
 
 
@@ -22,5 +22,6 @@ fetch("genre.json")
             x = Math.floor((Math.random() * 12));
             console.log(x);
             output.innerHTML = "Genre is "+ genres[x].genre;
+            picture.src= genres[x].img;
         })
     })

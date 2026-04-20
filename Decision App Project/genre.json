@@ -6,47 +6,47 @@
     },
     {
        "genre":"EDM",
-       "img":""
+       "img":"edm.webp"
     },
     {
        "genre":"Pop",
-        "img":""
+        "img":"pop.jpg"
     },
     {
         "genre":"Country",
-         "img":""
+         "img":"country.webp"
     },
     {
        "genre":"Heavy Metal",  
-        "img":""
+        "img":"heavy-metal.webp"
     },
     {
         "genre":"Reggaeton",
-         "img":""
+         "img":"reggaeton.jpg"
     },
     {
         "genre":"Classical",
-         "img":""
+         "img":"claassical.jpg"
     },
     {
         "genre":"Jazz",
-         "img":""
+         "img":"jazz.jpg"
     },
     {
        "genre":"Indie",
-        "img":""
+        "img":"indie.jpg"
     },
     {
         "genre":"Pluggnb",
-         "img":""
+         "img":"pluggnb.jpg"
     },
     {
         "genre":"Punk Rock",
-         "img":""
+         "img":"punk-rock.webp"
     },
     {
         "genre":"Rap",
-         "img":""
+         "img":"rap.avif"
     }
 
 
